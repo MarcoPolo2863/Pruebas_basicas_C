@@ -24,7 +24,7 @@ int main(){
 
     printf("%i", promedio);
 
-    if(promedio <= 7){
+    if(promedio >= 7){
         printf("Aprobado \n \n");
     }
     else{
